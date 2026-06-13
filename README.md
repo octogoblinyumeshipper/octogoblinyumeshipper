@@ -4,7 +4,7 @@
     
 ![Profile view counter](https://komarev.com/ghpvc/?username=your-github-beast-dazai&label=visitors)
   
-<img width="915" height="908" alt="Image" src="https://github.com/user-attachments/assets/553c65d5-3cb1-43f8-beb9-55574c8ded91" />
+<img width="735" height="970" alt="Image" src="https://github.com/user-attachments/assets/aecc8a1b-6333-4e99-a568-86b3081ae5aa" />
 
 
 
